@@ -14,7 +14,7 @@
 
 <div align="center" style="font-size: larger;">
 
-<div style="display: flex; gap: 5px; justify-content: center">
+<div style="display: flex; gap: 8px; justify-content: center">
 <img src="https://cdnlogo.com/logos/g/31/gsap-greensock.svg" height="45" alt="GSAP logo" />
 
 <img src="https://www.cdnlogo.com/logos/j/1/jwt-io-json-web-token.svg" height="50" alt="JWT logo" />
