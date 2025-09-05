@@ -11,14 +11,13 @@
 # 💻 Tech Stack - Tools:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,html,css,javascript,c" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,python,bootstrap,tailwindcss,firebase,nextjs,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,redux,figma,prisma" /><br>
-</div><br>
+    <img style="margin-bottom: 10" src="https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,html,css,javascript,c" /><br>
+    <img style="margin-bottom: 10" src="https://skillicons.dev/icons?i=cpp,python,bootstrap,tailwindcss,firebase,nextjs,typescript" /><br>
+    <img style="margin-bottom: 10" src="https://skillicons.dev/icons?i=vscode,git,github,redux,figma,prisma" /><br>
+</div>
 
-<div style="font-size: larger;">
-
-<div align="center" style="display: flex; gap: 5px; justify-content: center;">
+<div align="center" style="font-size: larger;">
+<div align="center" style="display: flex; gap: 5px; justify-content: center">
 
 <img src="./images/shadcnui.png" height="50" alt="JWT logo" />
 
