@@ -17,19 +17,19 @@
 </div>
 
 <div align="center" style="font-size: larger;">
-<div align="center" style="display: flex; gap: 5px; justify-content: center">
+<div align="center" style="display: flex; gap: 5px; justify-content: center;">
 
-<img src="./images/shadcnui.png" style="height: 6vw" alt="JWT logo" />
+<img src="./images/shadcnui.png" height="50" alt="JWT logo" />
 
-<img src="./images/cloudinary.png" style="height: 6vw" alt="JWT logo" />
+<img src="./images/cloudinary.png" height="50" alt="JWT logo" />
 
-<img src="./images/socketio.png" style="height: 6vw" alt="JWT logo" />
+<img src="./images/socketio.png" height="50" alt="JWT logo" />
 
-<img src="./images/clerk.png" style="height: 6vw" alt="socketio logo" />
+<img src="./images/clerk.png" height="50" alt="socketio logo" />
 
-<img src="./images/neondb.png" style="height: 6vw" alt="socketio logo" />
+<img src="./images/neondb.png" height="50" alt="socketio logo" />
 
-<img src="./images/gsap.png" style="height: 6vw" alt="socketio logo" />
+<img src="./images/gsap.png" height="50" alt="socketio logo" />
 </div><br>
 
 
