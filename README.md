@@ -18,7 +18,7 @@
 
 <div style="font-size: larger;">
 
-<div style="display: flex; gap: 5px; justify-content: center;">
+<div align="center" style="display: flex; gap: 5px; justify-content: center;">
 
 <img src="./images/shadcnui.png" height="50" alt="JWT logo" />
 
