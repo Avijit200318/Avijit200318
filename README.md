@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently a Final Year Btech Student<br>🌱 I'm currently learning about MERN Stack Development<br>👯 Ask me about React Js, Frontend Development, Backend Development
+👋 Hi, I’m Avijit<br>
+🎓 B.Tech (IT) – University of Calcutta | M.Tech, IT(Courseware) – Jadavpur University<br>
+💻 MERN & Next.js Developer<br> 🏆 Smart India Hackathon Finalist 2023<br>🔍 Passionate about DSA, scalable APIs & modern web apps<br>
+🚀 Exploring scalable web applications, APIs & real-time systems
 
 ## 🌐 Socials:
 
@@ -8,25 +11,28 @@
 # 💻 Tech Stack - Tools:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,html,css,javascript,tailwindcss,firebase,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bootstrap,vscode,git,github,redux,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,html,css,javascript,c" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,bootstrap,tailwindcss,firebase,nextjs,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,redux,figma,prisma" /><br>
 </div><br>
 
-<div align="center" style="font-size: larger;">
+<div style="font-size: larger;">
 
-<div style="display: flex; gap: 8px; justify-content: center">
-<img src="https://cdnlogo.com/logos/g/31/gsap-greensock.svg" height="45" alt="GSAP logo" />
+<div style="display: flex; gap: 5px; justify-content: center;">
 
-<img src="https://www.cdnlogo.com/logos/j/1/jwt-io-json-web-token.svg" height="50" alt="JWT logo" />
+<img src="./images/shadcnui.png" height="50" alt="JWT logo" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/900px-Socket-io.svg.png?20200308235956" height="40" alt="socketio logo" />
+<img src="./images/cloudinary.png" height="50" alt="JWT logo" />
+
+<img src="./images/socketio.png" height="50" alt="JWT logo" />
+
+<img src="./images/clerk.png" height="50" alt="socketio logo" />
+
+<img src="./images/neondb.png" height="50" alt="socketio logo" />
+
+<img src="./images/gsap.png" height="50" alt="socketio logo" />
 </div><br>
 
-<div>
-
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Avijit200318&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
