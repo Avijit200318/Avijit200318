@@ -19,17 +19,17 @@
 <div align="center" style="font-size: larger;">
 <div align="center" style="display: flex; gap: 5px; justify-content: center;">
 
-<img src="./images/shadcnui.png" height="50" alt="JWT logo" />
+<img id="auto" src="https://firebasestorage.googleapis.com/v0/b/x-next-e5030.appspot.com/o/shadcnui.png?alt=media&token=ecbd1c1f-4b0e-4ed6-a79a-d2de1cb6fe12" height="50" alt="JWT logo" />
 
-<img src="./images/cloudinary.png" height="50" alt="JWT logo" />
+<img id="auto" src="https://firebasestorage.googleapis.com/v0/b/x-next-e5030.appspot.com/o/cloudinary.png?alt=media&token=af86f676-eb89-49d9-b029-1cb757dddd98" height="50" alt="JWT logo" />
 
-<img src="./images/socketio.png" height="50" alt="JWT logo" />
+<img id="auto" src="https://firebasestorage.googleapis.com/v0/b/x-next-e5030.appspot.com/o/socketio.png?alt=media&token=b211e0e4-433f-41c2-bb2a-ad820434e326" height="50" alt="JWT logo" />
 
-<img src="./images/clerk.png" height="50" alt="socketio logo" />
+<img id="auto" src="https://firebasestorage.googleapis.com/v0/b/x-next-e5030.appspot.com/o/clerk.png?alt=media&token=09f663a0-858b-4bf4-9cea-3e54a9ddb0a4" height="50" alt="socketio logo" />
 
-<img src="./images/neondb.png" height="50" alt="socketio logo" />
+<img id="auto" src="https://firebasestorage.googleapis.com/v0/b/x-next-e5030.appspot.com/o/neondb.png?alt=media&token=9faaff9c-e5ed-47bd-b9bb-8b6c95d0cb8f" height="50" alt="socketio logo" />
 
-<img src="./images/gsap.png" height="50" alt="socketio logo" />
+<img id="auto" src="https://firebasestorage.googleapis.com/v0/b/x-next-e5030.appspot.com/o/gsap.png?alt=media&token=1821d21c-7685-44ba-a1a3-e9abc7a7f049" height="50" alt="socketio logo" />
 </div><br>
 
 
