@@ -47,3 +47,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Avijit200318&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/Avijit200318/Avijit200318/blob/output/github-contribution-grid-snake.gif)
