@@ -12,7 +12,7 @@
 
 <div align="center">
     <img style="margin-bottom: 10" src="https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,html,css,javascript,c" /><br>
-    <img style="margin-bottom: 10" src="https://skillicons.dev/icons?i=cpp,python,bootstrap,tailwindcss,firebase,nextjs,typescript" /><br>
+    <img style="margin-bottom: 10" src="https://skillicons.dev/icons?i=cpp,python,bootstrap,tailwindcss,firebase,nextjs,typescript,docker" /><br>
     <img style="margin-bottom: 10" src="https://skillicons.dev/icons?i=vscode,git,github,redux,figma,prisma" /><br>
 </div>
 
